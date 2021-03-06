@@ -19,7 +19,7 @@ from datetime import datetime
 import json
 zzahl = randint(1, 300)
 
-bot_token = '1604556126:AAFzfBx7eQOkC4DKaLG-bnoPBGPd67Zzrk0'
+bot_token = '<TOKEN>'
 bot = telebot.TeleBot(bot_token)
 bot_username = "@antifantis_hhbot"
 
