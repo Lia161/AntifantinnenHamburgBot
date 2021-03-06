@@ -1,0 +1,24 @@
+{
+    "info": {
+        "fascho Info": "Momentan nur Schwurbel, Infos unter /schwurbel und /info",
+        "antifa Info": "Schwurbel nerven (/schwurbel)\n16 Uhr bis 18:30 - \"Black Lives Still Matter\", Balduintreppe (bei der Hafenstra\u00dfe)",
+        "schwurbel Info": "6. M\u00e4rz wieder Autokorso. Again 12:15, Treffpunkt diesmal Niederbaumbr\u00fccke"
+    },
+    "Foederation": {
+        "groups": [],
+        "banned": []
+    },
+    "group": {
+        "admins": [],
+        "welcome": "Hi! Willkommen im Netzwerk der Antifant*innen Hamburg! Bitte gucke dir die Gruppenregelnan, indem du /rules schreibst!\n\nBitte schreibe 'Fight Nazis' innerhalb der n\u00e4chsten 5 Minuten, ansonsten wirst du entfernt.",
+        "privacy": [],
+        "joined": [],
+        "banned": []
+    },
+    "bot": {
+        "help": "Ich bin der Bot des Antifaschistischen Netzwerkes 'Antifant*innen Hamburg'. Mit folgenden Befehlen kannst du arbeiten:\n\n/help - Zeigt Hilfe\n/rules  - Zeigt Regeln\n/fascho - Zeigt Info \u00fcber n\u00e4chste Fascho- und Schwurbelaktivit\u00e4ten\n/schwurbel - Zeigt Info \u00fcber n\u00e4chste Fascho- und Schwurbelaktivit\u00e4ten\n/antifainfo - Zeigt Info \u00fcber n\u00e4chste linke Demos\n/info - Zeigt neuste Channelnachricht\n/channel - zeigt Channel-Einladungslink\n/kick - entfernt User\n\nWenn du Fragen oder Ideen hast, wende dich an @muffin_161\n\n\u270a\ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83c\udff4\ud83d\udea9\ud83d\udc18",
+        "start": "text"
+    },
+    "channel": "@antifaschismus_hh",
+    "message": ""
+}
